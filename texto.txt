@@ -1,11 +1,11 @@
 hola soy un libro 
 
-capitulo 1 
+capitulo 0 
 este es mi parrafo para mi libro con el capitulo 1.
 
-capitulo 2
+capitulo 1
 este es mi parrafo para el capitulo 2.
 
-capitulo 3 
+capitulo 2
 este es mi parrafo para el capitulo 3.
 
